@@ -2,6 +2,12 @@ local characteranimations = {}
 local animations_live ={}
 local animations_dead ={}
 
+------------------------------------------------------------------------------------
+-- Create table for other character-selector mods to register with Nepgear.
+------------------------------------------------------------------------------------
+NEPGEAR_keep_default_character = NEPGEAR_keep_default_character or {}
+
+
 characteranimations["level1"]={}
 
     characteranimations["level1"]["dead"] =
@@ -1276,16 +1282,11 @@ animations_dead=
   }
 }
 
+data.raw["character"]["Nepgear-skin"] = table.deepcopy(data.raw["character"]["character"])
+data.raw["character"]["Nepgear-skin"].name = "Nepgear-skin"
+data.raw["character"]["Nepgear-skin"].animations = animations_live
+data.raw["character"]["Nepgear-skin"].character_corpse = "Nepgear-corpse"
 
-if ((data.raw["player"] ~= nil) and (data.raw["player"]["player"]~= nil)) then
-  data.raw["player"]["player"]["animations"]=animations_live
-end
-
-if ((data.raw["character"] ~= nil) and (data.raw["character"]["character"]~= nil)) then
-  data.raw["character"]["character"]["animations"]=animations_live
-end
-
-if ((data.raw["character-corpse"] ~= nil) and (data.raw["character-corpse"]["character-corpse"]~= nil)) then
-  data.raw["character-corpse"]["character-corpse"]["pictures"]=animations_dead
-end
-
+data.raw["character-corpse"]["Nepgear-corpse"] = table.deepcopy(data.raw["character-corpse"]["character-corpse"])
+data.raw["character-corpse"]["Nepgear-corpse"].name = "Nepgear-corpse"
+data.raw["character-corpse"]["Nepgear-corpse"].pictures = animations_dead
