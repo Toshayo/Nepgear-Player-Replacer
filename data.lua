@@ -12,14 +12,14 @@ characteranimations["level1"]={}
 
     characteranimations["level1"]["dead"] =
     {
-      filename = "__Nepgear__/images/level1_dead_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
       frame_count = 2,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -30,7 +30,7 @@ characteranimations["level1"]={}
   
     characteranimations["level1"]["dead_shadow"]=nil,
     {
-      filename = "__Nepgear__/images/level1_dead_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_shadow.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -38,7 +38,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -49,7 +49,7 @@ characteranimations["level1"]={}
     }
 	characteranimations["level1"]["dead_mask"] = nil,
     {
-      filename = "__Nepgear__/images/level1_dead_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_mask.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -57,7 +57,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -68,7 +68,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["idle"] =
     {
-      filename = "__Nepgear__/images/level1_idle_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_lr.png",
 	    width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -77,7 +77,7 @@ characteranimations["level1"]={}
       animation_speed = 0.15,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -89,7 +89,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["idle_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_idle_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -99,7 +99,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -112,7 +112,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["idle_shadow"] = nil,
     {
-      filename = "__Nepgear__/images/level1_idle_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_shadow.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -122,7 +122,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -135,7 +135,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["idle_gun"] =
     {
-      filename = "__Nepgear__/images/level1_idle_gun_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -144,7 +144,7 @@ characteranimations["level1"]={}
       animation_speed = 0.15,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -156,7 +156,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["idle_gun_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_idle_gun_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -166,7 +166,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -179,7 +179,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["idle_gun_shadow"] =nil,
     {
-      filename = "__Nepgear__/images/level1_idle_gun_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_shadow.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -189,7 +189,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -202,7 +202,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["mining_hands"] =
     {
-      filename = "__Nepgear__/images/level1_mining_hands_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -211,7 +211,7 @@ characteranimations["level1"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -223,7 +223,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["mining_hands_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_hands_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -233,7 +233,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -246,7 +246,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["mining_hands_shadow"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_hands_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_shadow.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -256,7 +256,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -269,7 +269,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["mining_tool"] =
     {
-      filename = "__Nepgear__/images/level1_mining_tool_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -279,7 +279,7 @@ characteranimations["level1"]={}
       hr_version=
       {
 
-        filename = "__Nepgear__/images/level1_mining_tool.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -291,7 +291,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["mining_tool_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_tool_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -301,7 +301,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_tool_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -314,7 +314,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["mining_tool_shadow"]=nil,
     {
-      filename = "__Nepgear__/images/level1_mining_tool_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_shadow.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -324,7 +324,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_tool_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -337,7 +337,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["running"] =
     {
-      filename = "__Nepgear__/images/level1_running_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_lr.png",
 	    width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -346,7 +346,7 @@ characteranimations["level1"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -358,7 +358,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["running_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -368,7 +368,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -381,7 +381,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["running_shadow"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_shadow.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -391,7 +391,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -404,7 +404,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["running_gun"] =
     {
-      filename = "__Nepgear__/images/level1_running_gun_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -413,7 +413,7 @@ characteranimations["level1"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -425,7 +425,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["running_gun_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_gun_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -435,7 +435,7 @@ characteranimations["level1"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -448,7 +448,7 @@ characteranimations["level1"]={}
     }
     characteranimations["level1"]["running_gun_shadow"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_gun_shadow.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_shadow.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -458,7 +458,7 @@ characteranimations["level1"]={}
       DRAWASSHADOW = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun_shadow.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_shadow.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -475,14 +475,14 @@ characteranimations["level2addon"]={}
 
     characteranimations["level2addon"]["dead"] =
     {
-      filename = "__Nepgear__/images/level1_dead_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
       frame_count = 2,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -492,7 +492,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["dead_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_dead_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -500,7 +500,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -511,7 +511,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["idle"] =
     {
-      filename = "__Nepgear__/images/level1_idle_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -520,7 +520,7 @@ characteranimations["level2addon"]={}
       animation_speed = 0.15,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -532,7 +532,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["idle_mask"] = nil,
     {
-      filename = "__Nepgear__/images/level1_idle_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -542,7 +542,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -555,7 +555,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["idle_gun"] =
     {
-      filename = "__Nepgear__/images/level1_idle_gun_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -564,7 +564,7 @@ characteranimations["level2addon"]={}
       animation_speed = 0.15,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -576,7 +576,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["idle_gun_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_idle_gun_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -586,7 +586,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -599,7 +599,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["mining_hands"] =
     {
-      filename = "__Nepgear__/images/level1_mining_hands_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -608,7 +608,7 @@ characteranimations["level2addon"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -620,7 +620,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["mining_hands_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_hands_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -630,7 +630,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -643,7 +643,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["mining_tool"] =
     {
-      filename = "__Nepgear__/images/level1_mining_tool_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -652,7 +652,7 @@ characteranimations["level2addon"]={}
       animation_speed = 0.9,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_tool.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -664,7 +664,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["mining_tool_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_tool_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -674,7 +674,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_tool_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -687,7 +687,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["running"] =
     {
-      filename = "__Nepgear__/images/level1_running_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -696,7 +696,7 @@ characteranimations["level2addon"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -708,7 +708,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["running_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -718,7 +718,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -731,7 +731,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["running_gun"] =
     {
-      filename = "__Nepgear__/images/level1_running_gun_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -740,7 +740,7 @@ characteranimations["level2addon"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -752,7 +752,7 @@ characteranimations["level2addon"]={}
     }
     characteranimations["level2addon"]["running_gun_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_gun_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -762,7 +762,7 @@ characteranimations["level2addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -778,14 +778,14 @@ characteranimations["level3addon"]={}
 
     characteranimations["level3addon"]["dead"] =
     {
-      filename = "__Nepgear__/images/level1_dead_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
       frame_count = 2,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -795,7 +795,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["dead_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_dead_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_dead_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -803,7 +803,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_dead_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_dead_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -814,7 +814,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["idle"] =
     {
-      filename = "__Nepgear__/images/level1_idle_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -823,7 +823,7 @@ characteranimations["level3addon"]={}
       animation_speed = 0.15,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -835,7 +835,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["idle_mask"]=nil,
     {
-      filename = "__Nepgear__/images/level1_idle_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -845,7 +845,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -858,7 +858,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["idle_gun"] =
     {
-      filename = "__Nepgear__/images/level1_idle_gun_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -867,7 +867,7 @@ characteranimations["level3addon"]={}
       animation_speed = 0.15,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -879,7 +879,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["idle_gun_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_idle_gun_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -889,7 +889,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_idle_gun_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_idle_gun_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -902,7 +902,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["mining_hands"] =
     {
-      filename = "__Nepgear__/images/level1_mining_hands_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -911,7 +911,7 @@ characteranimations["level3addon"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -923,7 +923,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["mining_hands_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_hands_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_mask.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -933,7 +933,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_hands_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_hands_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -946,7 +946,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["mining_tool"] =
     {
-      filename = "__Nepgear__/images/level1_mining_tool_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_lr.png",
       width = 50,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -955,7 +955,7 @@ characteranimations["level3addon"]={}
       animation_speed = 0.9,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_tool.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -967,7 +967,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["mining_tool_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_mining_tool_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -977,7 +977,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_mining_tool_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_mining_tool_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -990,7 +990,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["running"] =
     {
-      filename = "__Nepgear__/images/level1_running_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -999,7 +999,7 @@ characteranimations["level3addon"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -1011,7 +1011,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["running_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -1021,7 +1021,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -1034,7 +1034,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["running_gun"] =
     {
-      filename = "__Nepgear__/images/level1_running_gun_lr.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_lr.png",
       width = 75,
       height = 80,
       shift = util.by_pixel(0.0,-21.0),
@@ -1043,7 +1043,7 @@ characteranimations["level3addon"]={}
       animation_speed = 0.6,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun.png",
         width = 150,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
@@ -1055,7 +1055,7 @@ characteranimations["level3addon"]={}
     }
     characteranimations["level3addon"]["running_gun_mask"] =nil,
     {
-      filename = "__Nepgear__/images/level1_running_gun_mask.png",
+      filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_mask.png",
       width = 100,
       height = 160,
       shift = util.by_pixel(0.0,-21.0),
@@ -1065,7 +1065,7 @@ characteranimations["level3addon"]={}
       apply_runtime_tint = true,
       hr_version=
       {
-        filename = "__Nepgear__/images/level1_running_gun_mask.png",
+        filename = "__Nepgear-More-Compatibility__/images/level1_running_gun_mask.png",
         width = 100,
         height = 160,
         shift = util.by_pixel(0.0,-21.0),
